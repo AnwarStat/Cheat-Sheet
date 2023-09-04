@@ -3,22 +3,12 @@ All technical Solution under one umbrella
 
 # Git cheat sheet with 50 plus commands line examples you should learn
 ## Anwar Hossain
-<blod> Data Scientist | Statistician | Quantitative Researcher | AI Content Creator</bold><br>
 <blod> Data Scientist | Statistician | Quantitative Researcher | Content Creator</bold><br>
-
-Follow me: <br>
-<p allign="center">
-<a herf="http://facebook.com/anwar.datascientist"> YouTube </a>  |
-<a herf="http://facebook.com/anwar.datascientist"> Facebook </a> |
-<a herf="http://facebook.com/anwar.datascientist"> Twitter </a> |
-<a herf="http://facebook.com/anwar.datascientist">Instragram</a> |
-<a herf="http://facebook.com/anwar.datascientist">LinkedIn</a> |
-<a herf="http://facebook.com/anwar.datascientist">Github</a> <br><hr> </p>
 Subscribe my Youtube Channel: http://facebook.com/anwar.datascientist  <br>
-Follow me on Facebook: http://facebook.com/anwar.datascientist <br> |
+Follow me on Facebook: http://facebook.com/anwar.datascientist <br> 
 Follow me on Twitter: http://twitter.com/anwar_stat <br>
-Follow me on Instragram: http://facebook.com/anwarstatjnu <br> |
-Follow me on LinkedIn: http://facebook.com/anwarstat <br> |
+Follow me on Instragram: http://facebook.com/anwarstatjnu <br> 
+Follow me on LinkedIn: http://facebook.com/anwarstat <br> 
 Follow me on Github: http://facebook.com/anwarstat<hr>
 
 ## 1. How to check your Git configuration:
