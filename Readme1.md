@@ -3,10 +3,10 @@
 <blod> Data Scientist | Statistician | Quantitative Researcher | Content Creator</bold><br>
 
 Subscribe my Youtube Channel: http://facebook.com/anwar.datascientist  <br>
-Follow me on Facebook: http://facebook.com/anwar.datascientist <br> |
+Follow me on Facebook: http://facebook.com/anwar.datascientist <br> 
 Follow me on Twitter: http://twitter.com/anwar_stat <br>
-Follow me on Instragram: http://facebook.com/anwarstatjnu <br> |
-Follow me on LinkedIn: http://facebook.com/anwarstat <br> |
+Follow me on Instragram: http://facebook.com/anwarstatjnu <br> 
+Follow me on LinkedIn: http://facebook.com/anwarstat <br> 
 Follow me on Github: http://facebook.com/anwarstat<hr>
 
 Tired of memorizing git commands? Here is a cheat sheet with 40+ commands to simplify your life.
